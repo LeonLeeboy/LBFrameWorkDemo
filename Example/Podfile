@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'LBFrameWorkDemo_Example' do
+  pod 'LBFrameWorkDemo', :path => '../'
+
+  target 'LBFrameWorkDemo_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
