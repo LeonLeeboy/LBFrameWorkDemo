@@ -1,0 +1,23 @@
+{
+  "name": "LBFrameWorkDemo",
+  "version": "1.1.0",
+  "summary": "A short description of LBFrameWorkDemo.enenen",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/j1103765636@iCloud.com/LBFrameWorkDemo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "j1103765636@iCloud.com": "1103765636@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/j1103765636@iCloud.com/LBFrameWorkDemo.git",
+    "tag": "1.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LBFrameWorkDemo/Classes/**/*",
+  "frameworks": "UIKit"
+}

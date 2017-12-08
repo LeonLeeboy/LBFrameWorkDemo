@@ -1,0 +1,6 @@
+framework module LBFrameWorkDemo {
+  umbrella header "LBFrameWorkDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
