@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'LBFrameWorkDemo'
-  s.version          = '1.1.0'
-  s.summary          = 'A short description of LBFrameWorkDemo.enenen'
+  s.version          = '1.0.0'
+  s.summary          = 'this is a demo ene '
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,25 +18,19 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-                                TODO: Add long description of the pod here.
+                                TODO: let me know how to use framework.
                        DESC
 
   s.homepage         = 'https://github.com/LeonLeeboy/LBFrameWorkDemo'
-  # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
+
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'j1103765636@iCloud.com' => '1103765636@qq.com' }
+  s.author           = { 'Leon' => '1103765636@qq.com' }
   s.source           = { :git => '/Users/ivan/Desktop/cocoapods2/LBFrameWorkDemo', :tag => s.version.to_s }
-  # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
 
   s.source_files = 'LBFrameWorkDemo/Classes/**/*'
-  
-  # s.resource_bundles = {
-  #   'LBFrameWorkDemo' => ['LBFrameWorkDemo/Assets/*.png']
-  # }
 
-  # s.public_header_files = 'Pod/Classes/**/*.h'
     s.frameworks = 'UIKit'
-  # s.dependency 'AFNetworking', '~> 2.3'
+
 end
