@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'LBFrameWorkDemo'
-  s.version          = '1.0.0'
+  s.version          = "1.0.1"
   s.summary          = 'this is a demo ene '
 
   s.description      = <<-DESC
@@ -16,11 +16,11 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = “LBFrameWorkDemo-1.0.0/ios/**/Headers/*”
+  s.source_files  = "LBFrameWorkDemod/ios/**/Headers/*" 
 
-  s.ios.vendored_frameworks = “LBFrameWorkDemo-1.0.0/ios/LBFrameWorkDemo.framework”
+  s.ios.vendored_frameworks = "LBFrameWorkDemod/ios/LBFrameWorkDemo.framework"
 
-  s.framework = “UIKit”
+  s.framework = "UIKit"
 
   
 
