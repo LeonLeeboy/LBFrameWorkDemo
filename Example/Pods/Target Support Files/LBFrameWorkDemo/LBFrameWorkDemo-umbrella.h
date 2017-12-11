@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "LBScrollViewTop.h"
 #import "LBScrollViewBottom.h"
 #import "LBScrollViewComponent.h"
 #import "LBScrollViewConst.h"

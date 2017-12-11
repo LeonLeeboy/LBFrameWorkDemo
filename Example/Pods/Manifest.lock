@@ -1,5 +1,5 @@
 PODS:
-  - LBFrameWorkDemo (1.1.0)
+  - LBFrameWorkDemo (1.0.0)
 
 DEPENDENCIES:
   - LBFrameWorkDemo (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  LBFrameWorkDemo: ce9ad869432467557380a8dbfc4f5596cf2e16df
+  LBFrameWorkDemo: 4bc2048f8d31ce849d9b6deb3adfcdd6900084f2
 
 PODFILE CHECKSUM: 3426b66c232498ed96261ff29e33ea255ed4aecd
 
